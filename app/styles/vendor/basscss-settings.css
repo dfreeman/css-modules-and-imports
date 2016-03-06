@@ -1,0 +1,5 @@
+@import 'basscss';
+
+:root {
+  --h6: 0.5em;
+}

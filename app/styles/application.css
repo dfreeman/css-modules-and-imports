@@ -1,0 +1,6 @@
+@after-module './vendor/basscss-settings';
+@after-module './base/base-elements';
+
+.giant-app-text {
+  font-size: 8em;
+}
